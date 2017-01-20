@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RUBÉN</Machine>
+    <WindowsUser>Rubén</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>2F97BA47B10486C052A1C64BDB3D51BFE328E3B64B5115E26F03BABA3B991A5E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>07aac22d-03c4-4c42-a1ce-c4797cb81359_1.0.0.0_neutral__5pnag55g1maa6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>07aac22d-03c4-4c42-a1ce-c4797cb81359_5pnag55g1maa6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>07aac22d-03c4-4c42-a1ce-c4797cb81359</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Rubén</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-06T21:43:56.703</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\bin\Debug\Trabajo_Catalogo3.exe">
+      <PackagePath>Trabajo_Catalogo3.exe</PackagePath>
+      <Modified>2014-05-13T20:54:49.423</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\bin\Debug\Trabajo_Catalogo3.pdb">
+      <PackagePath>Trabajo_Catalogo3.pdb</PackagePath>
+      <Modified>2014-05-13T20:54:49.398</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\imagenes grandes\1%29 Albahaca.jpg">
+      <PackagePath>Assets\imagenes grandes\1%29 Albahaca.jpg</PackagePath>
+      <Modified>2014-05-06T19:48:37.148</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\imagenes grandes\10%29 Jamaica.jpg">
+      <PackagePath>Assets\imagenes grandes\10%29 Jamaica.jpg</PackagePath>
+      <Modified>2014-05-06T19:48:37.158</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\imagenes grandes\11%29 Llanten.jpg">
+      <PackagePath>Assets\imagenes grandes\11%29 Llanten.jpg</PackagePath>
+      <Modified>2014-05-06T19:48:37.166</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\imagenes grandes\12%29 Manzanilla.jpg">
+      <PackagePath>Assets\imagenes grandes\12%29 Manzanilla.jpg</PackagePath>
+      <Modified>2014-05-06T19:48:37.173</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\imagenes grandes\13%29 Matico.jpg">
+      <PackagePath>Assets\imagenes grandes\13%29 Matico.jpg</PackagePath>
+      <Modified>2014-05-06T19:48:37.183</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\imagenes grandes\14%29 Menta.jpg">
+      <PackagePath>Assets\imagenes grandes\14%29 Menta.jpg</PackagePath>
+      <Modified>2014-05-06T19:48:37.193</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\imagenes grandes\15%29 Nanche.jpg">
+      <PackagePath>Assets\imagenes grandes\15%29 Nanche.jpg</PackagePath>
+      <Modified>2014-05-06T19:48:37.203</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\imagenes grandes\16%29 Noni.jpg">
+      <PackagePath>Assets\imagenes grandes\16%29 Noni.jpg</PackagePath>
+      <Modified>2014-05-06T19:48:37.210</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\imagenes grandes\17%29 Nopal.jpg">
+      <PackagePath>Assets\imagenes grandes\17%29 Nopal.jpg</PackagePath>
+      <Modified>2014-05-06T19:48:37.217</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\imagenes grandes\18%29 Paico.jpg">
+      <PackagePath>Assets\imagenes grandes\18%29 Paico.jpg</PackagePath>
+      <Modified>2014-05-06T19:48:37.224</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\imagenes grandes\19%29 Poleo.jpg">
+      <PackagePath>Assets\imagenes grandes\19%29 Poleo.jpg</PackagePath>
+      <Modified>2014-05-06T19:48:37.230</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\imagenes grandes\2%29 Aloe Vera.jpg">
+      <PackagePath>Assets\imagenes grandes\2%29 Aloe Vera.jpg</PackagePath>
+      <Modified>2014-05-06T19:48:37.237</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\imagenes grandes\20%29 Ruda.JPG">
+      <PackagePath>Assets\imagenes grandes\20%29 Ruda.JPG</PackagePath>
+      <Modified>2014-05-06T19:48:37.243</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\imagenes grandes\21%29 Romero.jpg">
+      <PackagePath>Assets\imagenes grandes\21%29 Romero.jpg</PackagePath>
+      <Modified>2014-05-06T19:48:37.251</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\imagenes grandes\22%29 Sauco.jpg">
+      <PackagePath>Assets\imagenes grandes\22%29 Sauco.jpg</PackagePath>
+      <Modified>2014-05-06T19:48:37.256</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\imagenes grandes\23%29 Tomillo.jpg">
+      <PackagePath>Assets\imagenes grandes\23%29 Tomillo.jpg</PackagePath>
+      <Modified>2014-05-06T19:48:37.263</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\imagenes grandes\24%29 Toronjil.jpg">
+      <PackagePath>Assets\imagenes grandes\24%29 Toronjil.jpg</PackagePath>
+      <Modified>2014-05-06T19:48:37.271</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\imagenes grandes\25%29 Violeta.jpg">
+      <PackagePath>Assets\imagenes grandes\25%29 Violeta.jpg</PackagePath>
+      <Modified>2014-05-06T19:48:37.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\imagenes grandes\3%29 Boldo.jpg">
+      <PackagePath>Assets\imagenes grandes\3%29 Boldo.jpg</PackagePath>
+      <Modified>2014-05-06T19:48:37.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\imagenes grandes\4%29 Caña Agria.jpg">
+      <PackagePath>Assets\imagenes grandes\4%29 Caña Agria.jpg</PackagePath>
+      <Modified>2014-05-06T19:48:37.292</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\imagenes grandes\5%29 Culen.jpg">
+      <PackagePath>Assets\imagenes grandes\5%29 Culen.jpg</PackagePath>
+      <Modified>2014-05-06T19:48:37.298</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\imagenes grandes\6%29 Flor de azahar.jpg">
+      <PackagePath>Assets\imagenes grandes\6%29 Flor de azahar.jpg</PackagePath>
+      <Modified>2014-05-06T19:48:37.331</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\imagenes grandes\7%29 Helecho macho.jpg">
+      <PackagePath>Assets\imagenes grandes\7%29 Helecho macho.jpg</PackagePath>
+      <Modified>2014-05-06T19:48:37.339</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\imagenes grandes\8%29 Hinojo.jpg">
+      <PackagePath>Assets\imagenes grandes\8%29 Hinojo.jpg</PackagePath>
+      <Modified>2014-05-06T19:48:37.347</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\imagenes grandes\9%29 Guaco.jpg">
+      <PackagePath>Assets\imagenes grandes\9%29 Guaco.jpg</PackagePath>
+      <Modified>2014-05-06T19:48:37.355</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\plantas.jpg">
+      <PackagePath>Assets\plantas.jpg</PackagePath>
+      <Modified>2014-05-06T21:36:41.904</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\Vegetacion.jpg">
+      <PackagePath>Assets\Vegetacion.jpg</PackagePath>
+      <Modified>2014-05-06T21:01:17.431</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-18T21:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-18T21:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-18T21:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-18T21:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2012-02-01T05:37:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2012-02-01T05:37:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2012-02-01T05:37:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2014-05-06T19:46:27.711</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-07-27T00:24:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\bin\Debug\GroupedItemsPage.xaml">
+      <PackagePath>GroupedItemsPage.xaml</PackagePath>
+      <Modified>2014-05-06T21:03:34.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\bin\Debug\GroupDetailPage.xaml">
+      <PackagePath>GroupDetailPage.xaml</PackagePath>
+      <Modified>2014-05-06T21:06:06.715</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\bin\Debug\ItemDetailPage.xaml">
+      <PackagePath>ItemDetailPage.xaml</PackagePath>
+      <Modified>2014-05-06T21:05:03.554</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rubén\Documents\Visual Studio 2012\Projects\Trabajo_Catalogo3\Trabajo_Catalogo3\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-05-06T21:43:56.237</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
